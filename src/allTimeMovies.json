@@ -1,0 +1,110 @@
+[
+  {
+    "id": 6,
+    "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+    "title": "The Godfather",
+    "year": 1972,
+    "duration": "175 minutes",
+    "description": "The Godfather, directed by Francis Ford Coppola, is a crime drama masterpiece set in 1940s New York. It tells the story of the aging patriarch of the Corleone crime family, Vito Corleone, who transfers control of his clandestine empire to his reluctant son, Michael. The film explores themes of power, loyalty, and family, and it's widely regarded as one of the greatest films in cinematic history.",
+    "genre": "Crime, Drama"
+  },
+  {
+    "id": 7,
+    "image": "https://prod-images.tcm.com/Master-Profile-Images/casablanca1942.610.jpg",
+    "title": "Casablanca",
+    "year": 1942,
+    "duration": "102 minutes",
+    "description": "Casablanca, directed by Michael Curtiz, is a classic romantic drama set during World War II. The story follows a cynical expatriate American cafe owner, Rick Blaine, played by Humphrey Bogart, who must decide whether or not to help his former lover, Ilsa Lund, and her fugitive husband, Victor Laszlo, escape the clutches of the Nazis in French Morocco. The film is known for its memorable characters and iconic dialogue.",
+    "genre": "Drama, Romance, War"
+  },
+  {
+    "id": 8,
+    "image": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "title": "Schindler's List",
+    "year": 1993,
+    "duration": "195 minutes",
+    "description": "Schindler's List, directed by Steven Spielberg, is a powerful and moving historical drama set in German-occupied Poland during World War II. The film tells the true story of Oskar Schindler, a German industrialist played by Liam Neeson, who gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis. Schindler embarks on a mission to save as many lives as possible, and the film is a poignant exploration of the horrors of the Holocaust and the triumph of human decency.",
+    "genre": "Biography, Drama, History"
+  },
+  {
+    "id": 9,
+    "image": "https://m.media-amazon.com/images/S/pv-target-images/d56b2942bc24e60043c79b061040c63d43ba529f0db1feff055e3b7a4dcc28ce.jpg",
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "duration": "142 minutes",
+    "description": "The Shawshank Redemption, directed by Frank Darabont, is a timeless prison drama based on a Stephen King novella. The film follows the story of Andy Dufresne, a banker wrongfully convicted of murder, and his experiences in Shawshank State Penitentiary. Through friendship with fellow inmate Red, played by Morgan Freeman, Andy finds hope and redemption within the confines of the prison walls. The Shawshank Redemption is celebrated for its themes of hope, resilience, and the enduring power of friendship.",
+    "genre": "Drama"
+  },
+  {
+    "id": 10,
+    "image": "https://m.media-amazon.com/images/S/pv-target-images/a8642018ef7500d8ece6281283332af4e8d33bcf422550413fc4cb860ba5545e.jpg",
+    "title": "Gone with the Wind",
+    "year": 1939,
+    "duration": "238 minutes",
+    "description": "Gone with the Wind, directed by Victor Fleming, is a sweeping historical epic set against the backdrop of the American Civil War and Reconstruction era. The film follows the life of Scarlett O'Hara, played by Vivien Leigh, a headstrong Southern belle, and her tumultuous love affair with the enigmatic Rhett Butler, played by Clark Gable. With stunning visuals and memorable characters, Gone with the Wind remains one of the most iconic and enduring films in cinematic history.",
+    "genre": "Drama, History, Romance"
+  },
+  {
+    "id": 11,
+    "image": "https://images.moviesanywhere.com/f37d0f41e4a1084cd80f69b1e9328f06/a03b7fb7-508e-4603-9f1c-4f415eab3b6e.jpg",
+    "title": "The Wizard of Oz",
+    "year": 1939,
+    "duration": "102 minutes",
+    "description": "The Wizard of Oz, directed by Victor Fleming, is a beloved fantasy musical that has enchanted audiences for generations. The film tells the story of Dorothy Gale, played by Judy Garland, who is whisked away to the magical land of Oz by a tornado. Alongside her newfound friends, the Scarecrow, the Tin Man, and the Cowardly Lion, she embarks on a journey to meet the Wizard of Oz and find her way home. The film is known for its iconic characters, memorable songs, and timeless message of courage and friendship.",
+    "genre": "Adventure, Family, Fantasy"
+  },
+  {
+    "id": 12,
+    "image": "https://c8.alamy.com/compfr/b86112/citizen-kane-annee-1941-etats-unis-administrateur-affiche-de-film-d-orson-welles-usa-b86112.jpg",
+    "title": "Citizen Kane",
+    "year": 1941,
+    "duration": "119 minutes",
+    "description": "Citizen Kane, directed by Orson Welles, is often considered one of the greatest films in cinematic history. The movie follows the rise and fall of Charles Foster Kane, a wealthy newspaper magnate, and explores the mystery surrounding his last word, 'Rosebud.' Through a series of flashbacks, the film delves into Kane's complex life and the people who knew him. Citizen Kane is celebrated for its innovative cinematography and narrative techniques.",
+    "genre": "Drama, Mystery"
+  },
+  {
+    "id": 13,
+    "image": "https://www.uphe.com/sites/default/files/styles/scale__344w_/public/2022/09/ETTheExtraTerrestrial40_PosterArt.jpg?itok=-MigaGGp",
+    "title": "E.T. the Extra-Terrestrial",
+    "year": 1982,
+    "duration": "115 minutes",
+    "description": "E.T. the Extra-Terrestrial, directed by Steven Spielberg, is a heartwarming science fiction film that tells the story of a young boy named Elliott who befriends a stranded alien creature named E.T. With the help of his siblings and friends, Elliott must protect E.T. from the authorities and find a way for the alien to return home. The film is a touching exploration of friendship, empathy, and the wonder of the unknown.",
+    "genre": "Family, Sci-Fi"
+  },
+  {
+    "id": 14,
+    "image": "https://m.media-amazon.com/images/I/B1F+WB+FOZS._AC_UF1000,1000_QL80_.jpg",
+    "title": "The Secret Garden",
+    "year": 1993,
+    "duration": "101 minutes",
+    "description": "The Secret Garden, directed by Agnieszka Holland, is a heartwarming family film set in the early 20th century. It follows the story of Mary Lennox, a spoiled and orphaned girl who discovers a hidden, neglected garden on her uncle's estate. Through her efforts, she brings the garden back to life and, in the process, transforms the lives of those around her. The film explores themes of healing, friendship, and the power of nature.",
+    "genre": "Drama, Family, Fantasy"
+  },
+  {
+    "id": 15,
+    "image": "https://flxt.tmsimg.com/assets/p15829_v_v13_aa.jpg",
+    "title": "Forrest Gump",
+    "year": 1994,
+    "duration": "142 minutes",
+    "description": "Forrest Gump, directed by Robert Zemeckis, is a heartwarming and iconic drama that spans several decades of American history. The film tells the life story of Forrest Gump, a man with a low IQ but a big heart, who unwittingly influences many significant events in the 20th century. It's a tale of love, friendship, and the unexpected impact one person can have on the world.",
+    "genre": "Drama, Romance"
+  },
+  {
+    "id": 16,
+    "image": "https://imgix.ranker.com/list_img_v2/470/400470/original/life-is-beautiful-movie-quotes-u1?auto=format&q=50&fit=crop&fm=pjpg&dpr=2&crop=faces&h=185.86387434554973&w=355",
+    "title": "Life Is Beautiful",
+    "year": 1997,
+    "duration": "116 minutes",
+    "description": "Life Is Beautiful, directed by Roberto Benigni, is a touching and bittersweet comedy-drama set during World War II. The film follows the journey of a Jewish father who uses humor and imagination to shield his young son from the harsh realities of life in a concentration camp. It's a story of love, resilience, and the enduring spirit of humanity.",
+    "genre": "Comedy, Drama, War"
+  },
+  {
+    "id": 17,
+    "image": "https://flxt.tmsimg.com/assets/p24429_p_v12_bf.jpg",
+    "title": "The Green Mile",
+    "year": 1999,
+    "duration": "189 minutes",
+    "description": "The Green Mile, directed by Frank Darabont, is a poignant and supernatural drama set in a Louisiana prison during the 1930s. The film follows the lives of death row guards and their encounters with a mysterious inmate who possesses extraordinary abilities. It explores themes of compassion, justice, and the unexplained mysteries of life.",
+    "genre": "Crime, Drama, Fantasy"
+  }
+]

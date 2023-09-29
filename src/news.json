@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "Aliens Land in New York City",
+    "imagePath": "https://cdn.pixabay.com/photo/2020/02/21/18/23/alien-4868331_1280.jpg",
+    "description": "In a stunning turn of events, extraterrestrial beings have landed in the heart of New York City. Eyewitnesses report seeing strange-looking spacecraft descending from the sky in Times Square. The world is holding its breath as scientists and government officials attempt to make contact with the visitors."
+  },
+  {
+    "id": "2",
+    "title": "Giant Chocolate Bar Discovered on Mars",
+    "imagePath": "https://www.howtocookthat.net/wp-content/comment-image/259376.jpg",
+    "description": "A rover on Mars has stumbled upon a massive chocolate bar-like object buried beneath the Martian surface. NASA scientists are puzzled by this unexpected discovery. Is this evidence of life on Mars, or is it simply an extraordinary geological formation?"
+  },
+  {
+    "id": "3",
+    "title": "World's Largest Pizza Delivered to the Moon",
+    "imagePath": "https://i.ytimg.com/vi/A3KeMtFZ6kM/maxresdefault.jpg",
+    "description": "In a remarkable feat of culinary engineering, a consortium of pizza companies has successfully delivered the world's largest pizza to the Moon. The pizza, measuring over 5,000 miles in diameter, is said to be visible from Earth with the naked eye. Astronauts aboard the International Space Station are eagerly awaiting their slices."
+  },
+  {
+    "id": "4",
+    "title": "World's Richest Dog Inherits Fortune",
+    "imagePath": "https://i.insider.com/5bfd7fb648eb125a7e3d6cc2?width=750&format=jpeg&auto=webp",
+    "description": "In a surprising turn of events, Fido the dog has inherited a vast fortune from his eccentric billionaire owner. Fido is now the world's wealthiest canine and is rumored to be investing in a new line of gourmet dog treats."
+  },
+  {
+    "id": "5",
+    "title": "Unicorn Spotted Grazing in Central Park",
+    "imagePath": "https://my.funnelpages.com/user-data/gallery/149/633601c06c9e1.jpg?r=85889",
+    "description": "Tourists and locals alike were left in awe as a majestic unicorn was spotted peacefully grazing in Central Park. Experts are baffled by the sudden appearance of this mythical creature in the heart of New York City."
+  },
+  {
+    "id": "6",
+    "title": "Man Discovers Portal to Parallel Universe in Closet",
+    "imagePath": "https://i.ytimg.com/vi/Lqn93ksJKsk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBPs-HthrcH7Ap2UqofUV5M5cvmWA",
+    "description": "A man claims to have stumbled upon a fully functioning portal to a parallel universe inside his closet. He reports meeting alternate versions of himself and is now contemplating the possibilities of interdimensional travel."
+  },
+  {
+    "id": "7",
+    "title": "Giant Rubber Duck Takes Over Sydney Harbor",
+    "imagePath": "https://media4.s-nbcnews.com/i/streams/2013/January/130103/1B5379531-pb-010213-rubberduck-319p.jpg",
+    "description": "Residents of Sydney woke up to an unexpected sight as a colossal rubber duck, measuring 100 feet tall, appeared in Sydney Harbor overnight. The city is abuzz with theories about its origin and purpose."
+  }
+]

@@ -1,0 +1,60 @@
+h2 {
+  margin-top: 33px;
+  display: flex;
+  margin-bottom: 20px;
+  justify-content: center;
+}
+.comment-list {
+  display: flex;
+  justify-content: center;
+  border: 1px solid black;
+  flex: 1;
+  flex-basis: auto;
+  width: 450px;
+  min-height: 80px;
+  border-radius: 2%;
+  margin-bottom: 10px;
+  overflow-wrap: break-word;
+
+  position: relative;
+  overflow: auto;
+  background-color: rgb(231, 230, 230);
+
+  strong {
+    position: absolute;
+    left: 2px;
+    font-size: 18px;
+    background-color: rgb(195, 212, 175);
+    border-radius: 10%;
+    margin-top: 2px;
+    border-right: 10px solid rgb(138, 242, 112);
+  }
+  p {
+    width: 95%;
+    height: 50%;
+    position: absolute;
+    top: 26px;
+    left: 5px;
+    padding: 2px;
+    font-size: 14px;
+    font-weight: bolder;
+  }
+  span {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    right: 5px;
+    top: 3px;
+    background-color: rgb(255, 169, 169);
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    transition: all 0.5s;
+    &:hover {
+      cursor: pointer;
+      background-color: rgb(251, 114, 114);
+      transform: scale(1.1);
+    }
+  }
+}

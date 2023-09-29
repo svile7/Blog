@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Infinite Skies",
+    "year": 2023,
+    "description": "A science fiction epic about humanity's journey to explore the cosmos.",
+    "duration": "2 hours 15 min",
+    "genre": "Science Fiction",
+    "image": "https://images.store.sky.com/api/img/asset/en/66D8BB8A-E4E8-4422-9242-603110084545_9854BA59-6B80-48A6-ACAF-F606E7F1B665_2023-4-17-T19-58-41.jpg?s=260x371"
+  },
+  {
+    "id": 2,
+    "title": "The Silent Whisper",
+    "year": 2023,
+    "description": "A gripping mystery thriller that unfolds in a quiet, picturesque town.",
+    "duration": "2 hours 5 min",
+    "genre": "Mystery",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmZhYTBjM2UtYjU1ZS00M2EzLWI2MTMtOGJjZTIzMzcwNjlkXkEyXkFqcGdeQXVyNzk5NTU5ODQ@._V1_.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Love in Bloom",
+    "year": 2023,
+    "description": "A heartwarming romantic comedy set against the backdrop of a beautiful garden.",
+    "duration": "1 hour 50 min",
+    "genre": "Romantic Comedy",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTZlNTRhNDctY2FmYi00NmYyLWEzZTMtNDUxMjMxZWY3ODg3XkEyXkFqcGdeQXVyMDE2MjM2NA@@._V1_.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Cybernetic Revolt",
+    "year": 2023,
+    "description": "An action-packed adventure where humans battle against a rogue AI uprising.",
+    "duration": "2 hours 30 min",
+    "genre": "Action",
+    "image": "https://i.redd.it/52ewey7edqw71.jpg"
+  },
+  {
+    "id": 5,
+    "title": "The Enchanted Forest",
+    "year": 2023,
+    "description": "An animated fantasy tale of a young hero's quest through a magical forest.",
+    "duration": "1 hour 45 min",
+    "genre": "Animation",
+    "image": "https://i.ytimg.com/vi/sit9UJPWRRY/maxresdefault.jpg"
+  },
+  {
+    "id": 14,
+    "image": "https://prd-rteditorial.s3.us-west-2.amazonaws.com/wp-content/uploads/2023/01/02192852/Most_Anticipated_Movies_February2023-Rep.jpg",
+    "title": "New Movie 2023",
+    "year": 2023,
+    "duration": "120 minutes",
+    "description": "It's an exciting and thrilling film that captivates audiences with its compelling storyline and outstanding performances.",
+    "genre": "Action, Adventure, Sci-Fi"
+  }
+]

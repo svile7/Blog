@@ -1,0 +1,60 @@
+.news-container {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  margin-top: 250px;
+  .news-glavni {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+  }
+  div {
+    display: grid;
+    margin-bottom: 100px;
+    justify-content: center;
+    opacity: 0.98;
+    transition: ease 0.5s;
+    width: 250px;
+    height: 100%;
+
+    &:hover {
+      cursor: pointer;
+      opacity: 1;
+      transform: scale(1.02);
+      transition: all 0.4s;
+    }
+    .news-link {
+      display: grid;
+      grid-template:
+        "b b a"
+        "b b c"
+        "b b c";
+      margin-bottom: 50px;
+      justify-content: center;
+      opacity: 0.98;
+      transition: ease 0.5s;
+      width: 250px;
+      height: 100%;
+      text-decoration: none;
+      user-select: none;
+      color: rgb(42, 42, 42);
+    }
+
+    img {
+      width: 300px;
+      height: 300px;
+    }
+    h2 {
+      width: 300px;
+      margin-left: 30px;
+    }
+    p {
+      width: 300px;
+      height: 105px;
+      overflow: hidden;
+      margin-left: 30px;
+      color: gray;
+    }
+  }
+}

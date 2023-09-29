@@ -1,0 +1,151 @@
+.movies-container {
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  h2 {
+    margin-top: 150px;
+    margin-bottom: 100px;
+    font-size: 33px;
+  }
+  h4 {
+    font-size: 20px;
+    margin-bottom: 50px;
+    margin-left: -1300px;
+    font-size: 33px;
+    width: 200px;
+    border-bottom: 6px solid rgb(88, 88, 88);
+    border-radius: 5px 10px;
+  }
+  .movies-glavni {
+    display: flex;
+    justify-content: center;
+    .prev-button {
+      width: 50px;
+      margin-left: 20px;
+      margin-right: -22px;
+      border: none;
+      font-size: 50px;
+      background-color: transparent;
+      &:hover {
+        cursor: pointer;
+        background-color: rgb(233, 233, 233);
+        transform: scale(1.1);
+        border-radius: 50px 40px 40px 50px;
+        transition: all 0.6s;
+      }
+    }
+    .next-button {
+      width: 50px;
+      border: none;
+      font-size: 50px;
+      background-color: transparent;
+      margin-left: 5px;
+      &:hover {
+        cursor: pointer;
+        background-color: rgb(233, 233, 233);
+        transform: scale(1.1);
+        border-radius: 40px 50px 50px 40px;
+        transition: all 0.6s;
+      }
+    }
+    .movies-filmovi {
+      display: flex;
+      flex-direction: row;
+      position: relative;
+      margin-left: 25px;
+      transition: transform 0.6s ease-in-out;
+      &:hover {
+        cursor: no-drop;
+        transform: scale(1.06);
+
+        > img {
+          transition: all 0.7s;
+          filter: blur(2px);
+          opacity: 0.75;
+          border-radius: 10px;
+        }
+        > h3 {
+          z-index: 99;
+          opacity: 1;
+          color: rgb(10, 0, 0);
+          font-size: 32px;
+          left: 10px;
+        }
+        > .data-movies {
+          display: flex;
+          filter: blur(0px);
+        }
+        > .description-movies {
+          display: block;
+        }
+      }
+      img {
+        width: 500px;
+        height: 380px;
+      }
+      h3 {
+        position: absolute;
+        left: 30%;
+        top: 2%;
+        color: rgb(235, 235, 235);
+        font-weight: 900;
+        font-size: 1.5em;
+      }
+      .data-movies {
+        position: absolute;
+        color: white;
+        display: flex;
+        top: 50%;
+        left: 10%;
+
+        display: none;
+
+        p {
+          margin-right: 30px;
+          margin-left: 10px;
+          font-size: 19px;
+          color: rgb(10, 6, 3);
+          font-weight: bold;
+
+          &:nth-child(1) {
+            text-decoration: underline rgb(237, 108, 108);
+          }
+
+          &:nth-child(2) {
+            color: rgb(0, 0, 0);
+            font-weight: bold;
+            background-color: rgba(161, 161, 161, 0.772);
+            border-radius: 10px;
+            padding: 5px;
+          }
+          &:nth-child(3) {
+            color: rgba(255, 220, 190, 0.937);
+            background-color: rgba(248, 29, 29, 0.397);
+            font-size: 15px;
+            font-style: italic;
+            border-radius: 10px 10px 0px 20px;
+            width: 150px;
+            padding: 10px;
+          }
+        }
+      }
+
+      .description-movies {
+        position: absolute;
+        bottom: 40px;
+        width: 350px;
+        left: 15%;
+        background-color: rgba(233, 255, 234, 0.273);
+        padding: 10px;
+        border-radius: 10px;
+        font-size: 15px;
+        font-weight: bold;
+        display: none;
+      }
+    }
+  }
+}
